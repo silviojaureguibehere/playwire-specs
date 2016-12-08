@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     "Silvio Jaureguibehere" => "silvio.jaureguibehere@gmail.com"
   }
 
-  s.platform     = :ios, '9.2'
+  s.platform     = :ios, '8.1'
 
   s.source       = {
     :git => "https://github.com/silviojaureguibehere/playwire-pods.git",
