@@ -1,8 +1,8 @@
 
 Pod::Spec.new do |s|
 
-  s.name         = "playwire-sdk-spec"
-  s.version      = "0.1.0"
+  s.name         = "PlaywireSDK"
+  s.version      = "0.1.3"
 
   s.summary      = 'Playwire SDK integration for playing ads'
   s.homepage     = "http://playwire.com"
@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
     "Silvio Jaureguibehere" => "silvio.jaureguibehere@gmail.com"
   }
 
-  s.platform     = :ios, '8.0'
+  s.platform     = :ios, '9.2'
 
   s.source       = {
     :git => "https://github.com/silviojaureguibehere/playwire-pods.git",
